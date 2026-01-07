@@ -1,0 +1,42 @@
+* {
+    font-family:fantasy;
+}
+
+body{
+align-items: center;
+background-color:gray;
+background: linear-gradient(135deg, black, #e5e6ee);
+}
+
+h1{
+    padding-top: 10px;
+    text-align: center;
+}
+.contact{
+    width: 594px;
+    height: 520px;
+    text-align: center;
+   background: linear-gradient(145deg, #ac0808, #031527);
+    margin-left: 370px;
+}
+
+input{
+    width: 210px;
+    height: 38px;
+    margin-top: 63px;
+    margin-left: 30px;
+    margin-bottom: -39px;
+}
+
+textarea{
+    width: 400px;
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 15px;
+}
+button{
+    width: 200px;
+    height: 38px;
+    font-size: 20px;
+    margin-top: 20px;
+}
